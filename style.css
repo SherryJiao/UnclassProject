@@ -18,6 +18,7 @@
 	color: white;
 	font-size: 50px;
 	text-align: center;
+	margin-top: 7%;
 	margin-right: 15%;
 	display: block;
 	line-height: 60px;
@@ -36,6 +37,7 @@
 	width:60%;
 	float: right;
 	margin-right: 10%;
+	margin-top: 17%;
 }
 
 .by{
@@ -101,6 +103,16 @@ h2{
 }
 
 #content{
+	padding: 10px 0;
 	margin-left:35%;
 	margin-right:15%;
+}
+
+#content p {
+	margin-bottom: 20px;
+	line-height: 34px;
+}
+
+.IntroText p {
+	margin-bottom: 30px;
 }
